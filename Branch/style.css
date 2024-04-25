@@ -1,0 +1,46 @@
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.nav-name{
+    color: #304438;
+    font-weight: 900;
+    font-size: 28px;
+    margin-left: 70px;
+}
+
+.nav-item a{
+    font-size: 10px;
+}
+
+.navbar-nav{
+    margin-left: 70px;
+}
+
+.btn{
+    background-color: #304438 !important;
+    color: white;
+    margin-right: 70px;
+}
+
+.hero{
+    padding: 80px 0 0 120px;
+    background-image: url(branch\ pics.jpg);
+    height: 470px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: whitesmoke;
+}
+
+.hero h4{
+    font-weight: 500;
+}
+
+.hero h5{
+    font-size: 17px;
+}
+
+.col-lg-3 img{
+    height: 60px;
+    width: 60px;
+}
